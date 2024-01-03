@@ -18,4 +18,5 @@ Add one more line.
 ls -l
 pwd
 which git
+which make
 ```
