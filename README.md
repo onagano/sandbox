@@ -17,4 +17,5 @@ Add one more line.
 ```shell
 ls -l
 pwd
+which git
 ```
