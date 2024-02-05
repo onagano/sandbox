@@ -20,4 +20,5 @@ pwd
 which git
 which make
 which gcc
+which autoconf
 ```
