@@ -19,4 +19,5 @@ ls -l
 pwd
 which git
 which make
+which gcc
 ```
